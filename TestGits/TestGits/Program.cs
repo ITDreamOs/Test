@@ -11,6 +11,7 @@ namespace TestGits
         static void Main(string[] args)
         {
             var test = 1;
+            test = 2;
 
 
         }
